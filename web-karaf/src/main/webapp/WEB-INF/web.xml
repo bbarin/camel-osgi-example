@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <description>Web Karaf Example</description>
+  <display-name>Web Karaf Example</display-name>
+
+  <listener>
+    <listener-class>listener.WebApplicationListener</listener-class>
+  </listener>
+ 
+		
+</web-app>
